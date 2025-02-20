@@ -12,6 +12,7 @@ This project explores the horsepower and performance of European cars using a da
 
 ## Installation
 Ensure you have the following Python libraries installed:
+pip install pandas, numpy, matplotlib, seaborn, scikit-learn, scipy
 
 
 ## RUN
