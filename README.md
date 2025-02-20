@@ -1,2 +1,18 @@
-# Car_Engine_Data_Analysis
-This Jupyter Notebook performs an Exploratory Data Analysis (EDA) on a dataset containing car specifications, particularly focusing on horsepower, engine performance, and other key attributes.
+# Car Engine Exploratory Data Analysis
+
+## Overview
+This project explores the horsepower and performance of European cars using a dataset ("Car EU Data.csv"). The analysis involves data cleaning, visualization, and statistical modeling.
+
+## Features
+- Reads and inspects the dataset
+- Identifies missing values
+- Computes summary statistics (mean, median, max, min)
+- Visualizes data using histograms and scatter plots
+- Performs regression analysis using `sklearn`
+
+## Installation
+Ensure you have the following Python libraries installed:
+
+
+## RUN
+jupyter notebook Car_Engine_Exploratory_Data_Analysis.ipynb
